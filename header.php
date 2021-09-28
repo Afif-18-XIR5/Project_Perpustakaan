@@ -14,7 +14,7 @@ if($_SESSION['status_login']!=true){
     <nav class="navbar navbar-expand-lg navbar-light bg light"
     style="box-shadow: 4px 4px 5px -4px;">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#">PERPUS</a>
+        <a class="navbar-brand" href="home.php">PERPUS</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
