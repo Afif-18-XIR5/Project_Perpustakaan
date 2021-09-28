@@ -32,7 +32,7 @@
 
 <div class="container-fluid">
   <center><h3>Main Page</h3></center>
-  <center><img src="pp.jpg" height="20%" width="20%"></center>
+  <center><img src="atok.jpg" height="20%" width="20%"></center>
   <center><p>Ini hanya percobaan ya.</p></center>
   <center><p>Mohon dimaklumi kalau jelek.</p></center>
 </div>
