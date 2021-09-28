@@ -24,7 +24,7 @@
       <a class="nav-link" href="tampil_siswa.php">Data Siswa</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="tampil_kelas.php">Kelas</a>
+      <a class="nav-link" href="home.php">Perpustakaan</a>
     </li>
   </ul>
 </nav>
